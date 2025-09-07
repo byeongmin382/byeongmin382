@@ -15,6 +15,7 @@
 - **Python** (working knowledge)
 - **GNU Octave** (MATLAB clone, working knowledge)
 - **LaTeX** (pretty good!)
+- **Big Data Analysis** ([certified engineer](https://kostat.go.kr/menu.es?mid=a10411020300) in Korea) 
 
 ---
 
