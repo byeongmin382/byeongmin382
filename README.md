@@ -13,7 +13,7 @@
 - **GNU R** (proficient)
 - **SQL** (proficient)
 - **Python** (working knowledge)
-- **Octave** (MATLAB clone, working knowledge)
+- **GNU Octave** (MATLAB clone, working knowledge)
 - **LaTeX** (pretty good!)
 
 ---
