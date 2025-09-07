@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Byeongmin Ko!
+# 👋 Hi, I'm Byeongmin!
 
 **Operations Associate @ Need**
 
