@@ -11,7 +11,7 @@
 
 ### 🛠️ Technical Skills
 - **GNU R** (proficient)
-- **SQL** (proficient)
+- **SQL, Dataform** (proficient)
 - **Python** (working knowledge)
 - **GNU Octave** (MATLAB clone, working knowledge)
 - **LaTeX** (pretty good!)
@@ -27,8 +27,6 @@
 ---
 
 ### 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/byeongmi-ko-207a74282/)
+- [LinkedIn](https://www.linkedin.com/in/byeongmin-ko-207a74282/)
 - [Personal Website](https://www.kobm.xyz)
 ---
-
-![Byeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongmin382&show_icons=true&hide_title=true)
